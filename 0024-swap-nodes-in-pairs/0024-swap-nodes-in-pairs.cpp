@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* swapPairs(ListNode* head) {
-      ListNode* first=head;
+         ListNode* first=head;
       if(first==nullptr || first->next==nullptr){
         return first;
       }
@@ -44,7 +44,5 @@ public:
         }
       }}
      return t;
-
-
     }
 };
