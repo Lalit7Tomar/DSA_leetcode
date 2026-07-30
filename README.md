@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0056-merge-intervals) |
 | [0239-sliding-window-maximum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0056-merge-intervals) |
 ## Binary Search
 |  |
 | ------- |
