@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0328-odd-even-linked-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0086-partition-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
