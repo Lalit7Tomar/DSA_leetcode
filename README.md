@@ -175,4 +175,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0073-set-matrix-zeroes) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
