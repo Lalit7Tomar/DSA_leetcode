@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0496-next-greater-element-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0112-path-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
