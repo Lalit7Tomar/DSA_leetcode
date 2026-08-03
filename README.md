@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0148-sort-list) |
 ## Array
 |  |
 | ------- |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0148-sort-list) |
 ## Binary Search
 |  |
 | ------- |
