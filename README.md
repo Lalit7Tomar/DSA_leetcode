@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
