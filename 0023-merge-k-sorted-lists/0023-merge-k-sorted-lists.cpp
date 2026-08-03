@@ -10,46 +10,27 @@
  */
 class Solution {
 public:
-    ListNode* merge(ListNode* l1,ListNode* l2){
-        ListNode dummy(0);      
-        ListNode* tail = &dummy;
-       while (l1 != nullptr && l2 != nullptr) {
-            if (l1->val < l2->val) {
-                tail->next = l1;
-                l1 = l1->next;
-            } else {
-                tail->next = l2;
-                l2 = l2->next;
-            }
-            tail = tail->next; 
+   
+    ListNode* mergeKLists(vector<ListNode*>& lists) {
+        auto cmp = [](ListNode* a, ListNode* b) {
+            return a->val > b->val;
+        };
+        priority_queue<ListNode*, vector<ListNode*>, decltype(cmp)> pq(cmp);
+
+        for (auto node : lists) {
+            if (node) pq.push(node);
         }
 
-        if (l1 != nullptr) {
-            tail->next = l1;
-        } else {
-            tail->next = l2;
+        ListNode dummy(0);
+        ListNode* tail = &dummy;
+
+        while (!pq.empty()) {
+            ListNode* node = pq.top(); pq.pop();
+            tail->next = node;
+            tail = tail->next;
+            if (node->next) pq.push(node->next);
         }
 
         return dummy.next;
     }
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if(lists.size()==0 || lists.size()==1){
-            if(lists.size()==0){
-                return nullptr;
-            }
-            return lists.front();
-        }
-       //binarysearch lgega
-       while(lists.size()>1){
-        ListNode* a=lists[lists.size()-1];
-        lists.pop_back();
-        ListNode* b=lists[lists.size()-1];
-        lists.pop_back();
-        ListNode* c=merge(a,b);
-        lists.push_back(c);
-       }
-       ListNode* c=lists.front();
-       return c;
-    }
-    
 };
