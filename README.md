@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Matrix
 |  |
 | ------- |
