@@ -97,10 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -266,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0169-majority-element) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
