@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0994-rotting-oranges](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0994-rotting-oranges) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0994-rotting-oranges](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0994-rotting-oranges) |
 ## Tree
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
