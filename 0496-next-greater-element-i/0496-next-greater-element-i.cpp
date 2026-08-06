@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-       // solving
        vector<int> nextgreater(nums2.size());
        stack<int> s;
        for(int i=nums2.size()-1;i>=0;i--){
@@ -37,6 +36,6 @@ public:
             }
         }
        }
-       return nextgreater1;
+       return nextgreater1;  
     }
 };
