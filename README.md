@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Merge Sort
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -310,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
