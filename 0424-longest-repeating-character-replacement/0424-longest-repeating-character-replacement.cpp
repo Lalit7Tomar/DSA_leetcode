@@ -1,8 +1,7 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        // 
-        set<char> se;
+         set<char> se;
         for(int i=0;i<s.length();i++){
             se.insert(s[i]);
         }
@@ -28,6 +27,6 @@ public:
             right++;
           }
         }
-        return maxlen;
+        return maxlen; 
     }
 };
