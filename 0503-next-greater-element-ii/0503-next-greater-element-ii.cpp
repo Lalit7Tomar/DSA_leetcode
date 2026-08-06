@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
-        stack<int> s;
+         stack<int> s;
         vector<int> nextgreater(nums.size());
         if(nums.size()==0 || nums.size()==1){
             vector<int> a;
