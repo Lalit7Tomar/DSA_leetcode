@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0733-flood-fill) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0733-flood-fill) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0547-number-of-provinces) |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1020-number-of-enclaves) |
 ## Tournament Sort
