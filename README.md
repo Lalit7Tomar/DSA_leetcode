@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0547-number-of-provinces) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0542-01-matrix) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0785-is-graph-bipartite) |
@@ -357,5 +360,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0210-course-schedule-ii) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
