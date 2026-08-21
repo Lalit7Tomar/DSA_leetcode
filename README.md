@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0778-swim-in-rising-water](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0735-asteroid-collision) |
+| [0778-swim-in-rising-water](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0778-swim-in-rising-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0994-rotting-oranges](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0994-rotting-oranges) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
+| [0778-swim-in-rising-water](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -298,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1020-number-of-enclaves) |
@@ -320,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -379,5 +386,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1631-path-with-minimum-effort) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
