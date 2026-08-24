@@ -446,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0572-subtree-of-another-tree) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
