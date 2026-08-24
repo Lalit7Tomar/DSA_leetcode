@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
