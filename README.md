@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0778-swim-in-rising-water) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1248-count-number-of-nice-subarrays) |
