@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> asteroidCollision(vector<int>& asteroids) {
-        vector<int> stable;
+         vector<int> stable;
         for(int i=0;i<asteroids.size();i++){
             int j=asteroids[i];
             bool destroyed=false;
@@ -31,6 +31,5 @@ public:
 
         }
         return stable;
-        
     }
 };
