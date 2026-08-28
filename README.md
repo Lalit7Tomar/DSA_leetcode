@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1631-path-with-minimum-effort](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1833-maximum-ice-cream-bars](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2104-sum-of-subarray-ranges](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Stack
 |  |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0502-ipo) |
 | [0881-boats-to-save-people](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0881-boats-to-save-people) |
+| [1833-maximum-ice-cream-bars](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Binary Search
 |  |
 | ------- |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0502-ipo) |
 | [0881-boats-to-save-people](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0881-boats-to-save-people) |
+| [1833-maximum-ice-cream-bars](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -499,4 +502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0292-nim-game) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
