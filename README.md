@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0502-ipo) |
 | [0778-swim-in-rising-water](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Merge Sort
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0542-01-matrix) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0502-ipo) |
 | [0881-boats-to-save-people](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
+| [0502-ipo](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0502-ipo) |
 | [0881-boats-to-save-people](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0881-boats-to-save-people) |
 ## Bucket Sort
 |  |
