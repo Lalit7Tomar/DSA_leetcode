@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0778-swim-in-rising-water) |
 | [0846-hand-of-straights](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0904-fruit-into-baskets) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Bucket Sort
