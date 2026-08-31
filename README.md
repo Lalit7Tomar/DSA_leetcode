@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0075-sort-colors) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0509-fibonacci-number) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0502-ipo) |
