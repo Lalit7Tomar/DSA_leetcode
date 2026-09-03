@@ -11,34 +11,33 @@
  */
 class Solution {
 public:
-   void helper(TreeNode* root, int curr, int level, std::vector<int>& u) {
-    if (root == nullptr) return;
-
-    if (curr == level) {
-        u.push_back(root->val);
-        return;
-    }
-
-    helper(root->left, curr + 1, level, u);
-    helper(root->right, curr + 1, level, u);
-}
   
-  int levels(TreeNode* root) {
-    if (root == nullptr) return 0;
-    return 1 + std::max(levels(root->left), levels(root->right));
-}
-
    
     vector<vector<int>> levelOrder(TreeNode* root) {
-        int level = levels(root);
-    std::vector<std::vector<int>> ans;
+      queue<TreeNode*> q;
+      q.push(root);
+      vector<vector<int>> ans;
+      if(root==nullptr) return {};
+      ans.push_back({root->val});
+      while(!q.empty()){
+        int size=q.size();
+        vector<int> level;
+        for(int i=0;i<size;i++){
+         TreeNode* top=q.front();
+          q.pop();
 
-    for (int i = 1; i <= level; i++) {
-        std::vector<int> t;
-        helper(root, 1, i, t);
-        ans.push_back(t);
-    }
+          if(top->left!=nullptr){
+            q.push(top->left);
+            level.push_back(top->left->val);
+          }
+          if(top->right!=nullptr){
+            q.push(top->right);
+            level.push_back(top->right->val);
+          }
+        }
+       if(level.size()>0) ans.push_back(level);
 
-    return ans;
+      }
+      return ans;
     }
 };
