@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0785-is-graph-bipartite) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1020-number-of-enclaves](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Union-Find
 |  |
 | ------- |
