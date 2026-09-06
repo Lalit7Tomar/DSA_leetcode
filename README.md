@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0509-fibonacci-number) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -526,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## String Matching
 |  |
