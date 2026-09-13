@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0130-surrounded-regions) |
@@ -605,8 +606,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0090-subsets-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
