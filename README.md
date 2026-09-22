@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0735-asteroid-collision) |
+| [0741-cherry-pickup](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0778-swim-in-rising-water) |
 | [0846-hand-of-straights](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0860-lemonade-change) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0542-01-matrix) |
+| [0741-cherry-pickup](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0741-cherry-pickup) |
 | [0907-sum-of-subarray-minimums](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0931-minimum-falling-path-sum) |
 ## Simulation
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0778-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0994-rotting-oranges) |
