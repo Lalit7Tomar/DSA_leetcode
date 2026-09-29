@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0741-cherry-pickup) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -656,10 +659,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
