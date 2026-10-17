@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0231-power-of-two) |
 ## Combinatorics
 |  |
 | ------- |
