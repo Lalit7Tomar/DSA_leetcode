@@ -18,14 +18,17 @@ public:
         if(root==nullptr) return {};
         q.push(root);
         while(!q.empty()){
-            a.push_back(q.front()->val);
-            int top=q.size();
-            for(int i=0;i<top;i++){
-               TreeNode* x=q.front();
-               if(x->right) q.push(x->right);
-               if(x->left) q.push(x->left);
-               q.pop();
-            }
+           int size=q.size();
+           for(int i=0;i<size;i++){
+             TreeNode* node = q.front();
+                q.pop();
+               
+                if (i == size - 1) a.push_back(node->val);
+                
+                if (node->left) q.push(node->left);
+                if (node->right) q.push(node->right);
+           }
+         
         }
         return a;
     }
