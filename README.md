@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2235-add-two-integers](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 ## Recursion
