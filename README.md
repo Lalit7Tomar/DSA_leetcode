@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0735-asteroid-collision) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0226-invert-binary-tree) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0226-invert-binary-tree) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Counting
 |  |
@@ -653,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -722,4 +727,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0518-coin-change-ii) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
