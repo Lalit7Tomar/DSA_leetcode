@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Bucket Sort
 |  |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bit Manipulation
 |  |
 | ------- |
