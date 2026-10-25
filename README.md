@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0205-isomorphic-strings) |
