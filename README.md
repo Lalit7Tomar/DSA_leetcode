@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2104-sum-of-subarray-ranges](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Stack
 |  |
