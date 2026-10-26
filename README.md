@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2104-sum-of-subarray-ranges](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
