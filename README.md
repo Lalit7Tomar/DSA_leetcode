@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0502-ipo) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0355-design-twitter](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Counting
 |  |
