@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2079-watering-plants](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/2079-watering-plants) |
 | [2104-sum-of-subarray-ranges](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0735-asteroid-collision) |
+| [2079-watering-plants](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/2079-watering-plants) |
 ## Queue
 |  |
 | ------- |
