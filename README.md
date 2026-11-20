@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1143-longest-common-subsequence](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1463-cherry-pickup-ii) |
 ## Simulation
@@ -865,4 +867,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0146-lru-cache) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
