@@ -4,7 +4,6 @@ public:
         int size1 = str1.size();
         int size2 = str2.size();
 
-        // Store LCS lengths only: O(N * M) space instead of O(N * M * min(N, M))
         vector<vector<int>> dp(size1 + 1, vector<int>(size2 + 1, 0));
 
         for (int i = 1; i <= size1; i++) {
@@ -16,8 +15,6 @@ public:
                 }
             }
         }
-
-        // Reconstruct SCS in reverse from bottom-right to top-left
         string ans;
         int i = size1, j = size2;
 
