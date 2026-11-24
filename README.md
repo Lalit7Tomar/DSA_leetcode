@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0038-count-and-say) |
+| [0115-distinct-subsequences](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0126-word-ladder-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Lalit7Tomar/DSA_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
